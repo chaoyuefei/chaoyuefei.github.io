@@ -54,34 +54,42 @@ params:
     profileMode:
           enabled: true
           title: Chaoyue Fei
-          subtitle: "I am a Ph.D student at Vrije Universiteit Brussel in Brussels, Belgium. My research focuses mostly on flexible safe cobot."
+          subtitle: "I am a Ph.D student at [Vrije Universiteit Brussel](https://www.vub.be/en) in Brussels, Belgium. My research focuses mostly on flexible safe cobot."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Chaoyue Fei
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
+            # - name: Papers
+            #   url: papers/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            - name: Curriculum
+              url: cv.pdf
+            - name: Email
+              url: chaoyue.fei@vub.be
+            - name: Blog
+              url: blog/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: chaoyue.fei@vub.be
-        - name: GitHub
-          url: https://github.com/chaoyuefei
+    # socialIcons:
+    #     - name: CV
+    #       url: cv.pdf
+    #     - name: Email
+    #       url: chaoyue.fei@vub.be
+    #     - name: GitHub
+    #       url: https://github.com/chaoyuefei
+      # - name: Google Scholar
+      #   url: https://scholar.google.com/citations?user=iuYvIB4AAAAJ
 
     assets:
         disableScrollBarStyle: true
