@@ -11,14 +11,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Archive
-          url: archive/
-        - name: Blog
-          url: blog/
-        - name: Contact
-          url: /contact/
         - name: Curriculum
           url: cv.pdf
+        - name: Contact
+          url: /contact/
+        - name: Blog
+          url: blog/
+        - name: Archive
+          url: archive/
+
+
 
 
         # - name: Books

@@ -6,11 +6,11 @@ hidemeta: true
 ---
 
 
+
 #### Email
 
 chaoyue.fei@vub.be
 
----
 
 #### Office address
 
@@ -18,7 +18,6 @@ Pleinlaan 9
 1050 Brussels
 Belgium
 
----
 
 #### Office location
 
