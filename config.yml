@@ -11,15 +11,16 @@ taxonomies:
 
 menu:
     main:
-
-        - name: Curriculum
-          url: cv.pdf
-        - name: Contact
-          url: /contact/
-        - name: Blog
-          url: blog/
         - name: Archive
           url: archive/
+        - name: Blog
+          url: blog/
+        - name: Contact
+          url: /contact/
+        - name: Curriculum
+          url: cv.pdf
+
+
         # - name: Books
         #   url: books/
         #   weight: 5 
@@ -81,8 +82,8 @@ params:
             #   url: tags/
             - name: Curriculum
               url: cv.pdf
-            - name: Email
-              url: chaoyue.fei@vub.be
+            - name: Contact
+              url: /contact/
             - name: Blog
               url: blog/
             - name: Archive
