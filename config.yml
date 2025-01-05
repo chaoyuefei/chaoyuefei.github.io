@@ -67,7 +67,7 @@ params:
           enabled: true
           title: Chaoyue Fei
           subtitle: "I am a Ph.D student at [Vrije Universiteit Brussel](https://www.vub.be/en) in Brussels, Belgium. My research focuses mostly on flexible safe cobot."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.JPG"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Chaoyue Fei
