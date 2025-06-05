@@ -1,14 +1,11 @@
 ---
-title: "My Research Workflow using Embedded Video in Beamer Presentations"
+title: "My Research Workflow: How to Enable Embedded Video in Beamer Presentations"
 date: 2025-06-05
 lastmod: 2025-06-05
 tags: ["LaTex","Beamer","video","presentation","workflow"]
 author: ["Chaoyue Fei"]
 description: "This post demonstrates how to embed a video in a Beamer presentation using LaTeX."
 summary: "This post demonstrates how to embed a video in a Beamer presentation using LaTeX."
-# editPost:
-#     URL: "https://github.com/pmichaillat/hugo-website"
-#     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
 ---
