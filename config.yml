@@ -1,4 +1,4 @@
-baseURL: "https://chaoyuefei.github.io/" 
+baseURL: "https://chaoyuefei.github.io/"
 title: Chaoyue Fei
 paginate: 20
 theme: PaperMod
@@ -7,126 +7,126 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        # - name: Curriculum
-        #   url: cv.pdf
-        # - name: Contact
-        #   url: /contact/
-        # - name: Blog
-        #   url: blog/
-        # - name: Archive
-        #   url: archive/
+  main:
+    # - name: Curriculum
+    #   url: cv.pdf
+    # - name: Contact
+    #   url: /contact/
+    # - name: Blog
+    #   url: blog/
+    # - name: Archive
+    #   url: archive/
 
-        - name: Archive
-          url: archive/
-        - name: Blog
-          url: blog/
-        - name: Contact
-          url: /contact/
-        - name: Curriculum
-          url: cv.pdf
+    - name: Archive
+      url: archive/
+    - name: Posts
+      url: posts/
+    - name: Contact
+      url: /contact/
+    # - name: Curriculum
+    #   url: cv.pdf
 
-        # - name: Books
-        #   url: books/
-        #   weight: 5 
-        # - name: Papers
-        #   url: papers/
-        #   weight: 2
-        # - name: Courses
-        #   url: courses/
-        #   weight: 3
-        # - name: Data
-        #   url: data/
-          # weight: 4 
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
+    # - name: Books
+    #   url: books/
+    #   weight: 5
+    # - name: Papers
+    #   url: papers/
+    #   weight: 2
+    # - name: Courses
+    #   url: courses/
+    #   weight: 3
+    # - name: Data
+    #   url: data/
+    # weight: 4
+    # - name: Blog
+    #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+    #   weight: 6
 
 params:
-    description: "I am a Ph.D student at Vrije Universiteit Brussel in Brussels, Belgium. My research focuses mostly on flexible safe cobot."
-    author: Chaoyue Fei
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Chaoyue Fei
-          subtitle: "I am a Ph.D student at [Vrije Universiteit Brussel](https://www.vub.be/en) in Brussels, Belgium. My research focuses mostly on flexible safe cobot."
-          imageUrl: "picture.JPG"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Chaoyue Fei
-          buttons:
-            # - name: Papers
-            #   url: papers/
-            # - name: Courses
-            #   url: courses/
-            # - name: Data
-            #   url: data/
-            # - name: Books
-            #   url: books/
-            # - name: Tags
-            #   url: tags/
-            - name: Curriculum
-              url: cv.pdf
-            - name: Contact
-              url: /contact/
-            - name: Blog
-              url: blog/
-            - name: Archive
-              url: archive/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+  description: "I am a Ph.D student at Vrije Universiteit Brussel in Brussels, Belgium. My research focuses mostly on flexible safe cobot."
+  author: Chaoyue Fei
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ["books", "courses", "papers", "data"]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Chaoyue Fei
+    subtitle: "I am a Ph.D student at [Vrije Universiteit Brussel](https://www.vub.be/en) in Brussels, Belgium. My research focuses mostly on flexible safe cobot."
+    imageUrl: "picture.JPG"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: Chaoyue Fei
+    buttons:
+      # - name: Papers
+      #   url: papers/
+      # - name: Courses
+      #   url: courses/
+      # - name: Data
+      #   url: data/
+      # - name: Books
+      #   url: books/
+      # - name: Tags
+      #   url: tags/
+      - name: Curriculum
+        url: cv.pdf
+      - name: Contact
+        url: /contact/
+      - name: Blog
+        url: blog/
+      - name: Archive
+        url: archive/
+      # - name: Blog
+      #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
-    # socialIcons:
-    #     - name: CV
-    #       url: cv.pdf
-    #     - name: Email
-    #       url: chaoyue.fei@vub.be
-    #     - name: GitHub
-    #       url: https://github.com/chaoyuefei
-      # - name: Google Scholar
-      #   url: https://scholar.google.com/citations?user=iuYvIB4AAAAJ
+  # socialIcons:
+  #     - name: CV
+  #       url: cv.pdf
+  #     - name: Email
+  #       url: chaoyue.fei@vub.be
+  #     - name: GitHub
+  #       url: https://github.com/chaoyuefei
+  # - name: Google Scholar
+  #   url: https://scholar.google.com/citations?user=iuYvIB4AAAAJ
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Chaoyue Fei"
-      icon: favicon.ico
-      iconHeight: 18
+  assets:
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "Chaoyue Fei"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
