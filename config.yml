@@ -20,12 +20,12 @@ menu:
     # - name: Archive
     #   url: archive/
 
-    - name: Archive
-      url: archive/
     - name: Posts
       url: posts/
     - name: Contact
       url: /contact/
+    - name: Archive
+      url: archive/
     # - name: Curriculum
     #   url: cv.pdf
 
@@ -88,12 +88,12 @@ params:
       #   url: books/
       # - name: Tags
       #   url: tags/
-      - name: Curriculum
-        url: cv.pdf
+      # - name: Curriculum
+      #   url: cv.pdf
+      - name: Posts
+        url: posts/
       - name: Contact
         url: /contact/
-      - name: Blog
-        url: blog/
       - name: Archive
         url: archive/
       # - name: Blog

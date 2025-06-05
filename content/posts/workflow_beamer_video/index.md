@@ -48,8 +48,8 @@ To run `pympress`, simply execute the following command in your terminal:
 pympress your_presentation.pdf
 ```
 This will open your Beamer presentation in a dual-screen mode, allowing you to control the slides and play the video seamlessly as illustrated in the video below.
-![pympress demo 1](fig/demo1.gif)
-![pympress demo 2](fig/demo2.gif)
+![pympress demo 1](demo1.gif)
+![pympress demo 2](demo2.gif)
 
 ## Conclusion
 `movie15` plus `pympress` provides a powerful way to embed videos in Beamer presentations. It is easy yet powerful, and should be used in all platforms including Windows, macOS, and Linux.
